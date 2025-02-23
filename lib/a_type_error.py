@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+#!/usr/bin/env python3
+
+wrong_type = int("21") + 123
+print(wrong_type) 
